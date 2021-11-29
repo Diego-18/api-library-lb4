@@ -75,5 +75,5 @@ npm run lint:fix
 
 ## <img src="https://image.flaticon.com/icons/png/512/390/390112.png" alt="support" width="40" height="40"> Technologies used
 
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="js" width="30" height="30"/></br> NodeJS |
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="js" width="30" height="30"/></br> TypeScript |
 | --------- |
